@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+    background: linear-gradient(#CCFBFF, 0, #EF96C5, 100);
+}
+
+#me {
+    text-align: center;
+    text-decoration-color: aqua;
+}
